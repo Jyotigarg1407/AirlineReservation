@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="airline/management/system/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/airline/management/system"/>
+	<classpathentry kind="lib" path="dist/Airline_Management_System.jar"/>
+	<classpathentry kind="lib" path="dist/lib/mysql-connector-java-8.0.22.jar"/>
+	<classpathentry kind="lib" path="dist/lib/rs2xml.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
